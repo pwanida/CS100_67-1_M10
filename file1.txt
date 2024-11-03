@@ -1,2 +1,3 @@
 This is a line in file1.txt @ local.
 This is a line in file1.txt @ remote.
+This is the 2nd line in file1.txt @ local.
